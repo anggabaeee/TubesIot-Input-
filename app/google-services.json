@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "89879643450",
+    "firebase_url": "https://tubesiot04.firebaseio.com",
+    "project_id": "tubesiot04",
+    "storage_bucket": "tubesiot04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89879643450:android:9d1297a25c5af239fc3c03",
+        "android_client_info": {
+          "package_name": "com.example.tubesiotinput"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89879643450-l2jh8m1p3imenudhdt18b9tcg86uksnh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tubesiotinput",
+            "certificate_hash": "5f517e568363fd6100e7767cb06423e1233915a3"
+          }
+        },
+        {
+          "client_id": "89879643450-9s2ftddf0av6al338uufh1kh1rlg8kr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTs9XRTmaQ3T5r1dhHsEfXQYNLkvi5r20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89879643450-9s2ftddf0av6al338uufh1kh1rlg8kr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
